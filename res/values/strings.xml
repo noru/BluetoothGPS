@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BluetoothGPSActivity!</string>
+    <string name="app_name">GPS Raw Data Acquisition</string>
+    <string name="start_a_new_session">New Session</string>
+    <string name="end_session">End Session</string>
+    <string name="keep_recording">Keep Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="discover_gps_device">Discover GPS Device</string>
+    <string name="single_point_record">Single Point</string>
+    <string name="mode_title">"Mode: "</string>
+    <string name="elevation_title">"Elevation: "</string>
+    <string name="latitude_title">"Latitude: "</string>
+    <string name="longitude_title">"Longitude: "</string>
+    <string name="original_gps_signal_title">GPS Raw Data: </string>
+    <string name="your_device_does_not_support_bluetooth_">Your Device Does Not Support Bluetooth.</string>
+    <string name="disconnected_with_gps_device_">Disconnected with GPS Device.</string>
+    <string name="connecting_failed_try_restart_your_devices_and_discover_again_">Connecting Failed. Try Restart Your Devices and Discover Again..</string>
+    <string name="gps_device_is_connected_">GPS Device Is Connected!</string>
+    <string name="start_discovery_">Start Discovery...</string>
+    <string name="finish_tracking_a_serial_of_data_has_been_recorded_">Finish tracking. A serial of data has been recorded.</string>
+    <string name="start_tracking_">Start Tracking...</string>
+    <string name="single_point_has_been_recorded_">Single Point has been Recorded.</string>
+    <string name="session_is_ended_">Session is Ended.</string>
+    <string name="a_new_session_is_started_">A New Session is Started.</string>
+    <string name="your_bluetooth_adapter_is_disabled_please_turn_it_on_">Your Bluetooth Adapter is Disabled. Please turn it on and try again.</string>
+    <string name="sd_card_is_not_ready_can_not_use_this_function_">SD Card is Not Ready. Mount it and Restart App to Use this Function.</string>
+    <string name="with_comments">with Comments</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="on_recieve">On Recieve</string>
+    <string name="leave_your_annotation_here_">Leave your annotation here...</string>
+    <string name="send">Send</string>
+    <string name="input_command">Input Command...</string>
+
+</resources>
